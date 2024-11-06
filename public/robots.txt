@@ -1,0 +1,10 @@
+User-agent: *
+Disallow:/admin/login
+Disallow:/user/sign-in
+Disallow:/user/sign-up
+Disallow:/user/forget-password
+Disallow:/wishlist
+Disallow:/cart/content
+Disallow:/checkout
+
+Sitemap: https://malakofftraders.com/sitemap.xml
